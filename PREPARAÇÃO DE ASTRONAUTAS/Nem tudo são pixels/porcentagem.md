@@ -1,0 +1,5 @@
+
+# porcentagem.md
+
+* Em muitos casos é tratado da mesma maneira que as distâncias <lenght>
+* Sempre será relativo a algum valor
