@@ -1,0 +1,14 @@
+
+/* Element Selector*/
+#title {
+    color: yellow;
+    font-size: 60px;
+}
+
+#content {
+    color: orange;
+}
+
+.red {
+    font-size: 3em;
+}
