@@ -16,3 +16,16 @@ Pseudo-classes começam com 2 pontos seguidos do nome da pseudo class
 * : nth-child()
 
 ## Ações do usuário
+
+* :hover
+* :focus
+
+## Atributos
+
+* :disabled
+* :required
+
+## Referência
+
+https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes
+
