@@ -1,0 +1,7 @@
+## Posicionamentos
+
+Controlar onde, na página, o elemento irá ficar,
+alterando o fluxo normal dos elementos.
+
+- Name: position
+- Valeu: static / relative / absolute / fixed
