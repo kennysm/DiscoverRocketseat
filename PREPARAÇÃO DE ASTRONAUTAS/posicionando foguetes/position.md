@@ -17,3 +17,7 @@ alterando o fluxo normal dos elementos.
 ## Fixed
 
 O elemento fica fixo na página
+
+## Element Stacking
+
+Empilhamento de elementos
