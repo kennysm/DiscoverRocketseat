@@ -33,3 +33,33 @@ ser usados para montar uma tabela
     </tr>
 </table>
 ```
+
+
+## Tabless
+
+Uso das propriedades `float`, `clear` para que os elementos possam
+mudar de posição na tela.
+
+```html
+
+<div style="float: left">
+    esquerda
+</div>
+
+
+<div style="float: right">
+    direita
+</div>
+
+
+<div style="float: both">
+    normal
+</div>
+```
+## Flexbox
+
+A caixa se torna flex, fazendo com que os elementos internos possam receber melhor:
+
+- Alinhamento
+- Ordenação
+- Tamanhos flexíveis
