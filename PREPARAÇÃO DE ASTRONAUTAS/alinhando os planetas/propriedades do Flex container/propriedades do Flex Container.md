@@ -5,4 +5,5 @@
 * Alinhamento
     * principal
     * cruzado
+
 * Espaços entre os itens
