@@ -6,4 +6,4 @@
     * principal
     * cruzado
 
-* Espaços entre os itens
+* Espaços entre os itens 
