@@ -8,4 +8,25 @@
 
 * Espaços entre os itens 
 
-## multiplas linhas 
+## flex-wrap
+
+- Podemos usar multi linhas.
+- cada nova linha, um novo flex container
+
+## flex-flow
+
+-shorthand
+- flex-direction / flex-wrap
+
+# justify-content
+
+- Alinhamento dos elementos dentro do Container
+- Distribuição dos elementos
+
+## Valores
+- flex-start
+- flex-end
+- center
+- space-around
+- space-between
+- space-evenly
