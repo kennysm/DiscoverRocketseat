@@ -30,3 +30,14 @@
 - space-around
 - space-between
 - space-evenly
+
+# align-items
+
+- Alinhamento dos elementos no eixo cruzados.
+
+## valores
+
+- stretch
+- flex-start
+- flex-end
+- center
