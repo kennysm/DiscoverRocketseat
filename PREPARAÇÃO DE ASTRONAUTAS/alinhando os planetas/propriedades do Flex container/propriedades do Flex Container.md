@@ -41,3 +41,13 @@
 - flex-start
 - flex-end
 - center
+
+# gap
+
+- Espaço entre os elementos
+
+## Valores
+
+unidades de medidas
+fixas: px, pt
+flexíveis: %, em, rem
